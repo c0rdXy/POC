@@ -38,7 +38,7 @@ After a successful attack using XSS code, malicious users may get high permissio
 
 ## Payload
 
-Open the questionnaire management function node in the content function area and click Add.
+Open the survey management function node in the content function area and click Add.
 
 打开内容功能区中的问卷调查管理功能点，点击添加按钮。
 
