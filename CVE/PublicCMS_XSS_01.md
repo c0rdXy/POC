@@ -23,7 +23,7 @@ PublicCMS-V4.0.202406.f\publiccms-parent\publiccms-core\src\main\java\com\public
 
 ## Vulnerability Description:
 
-PublicCMS V4.0.202406.f was discovered to contain a cross-site scripting (XSS) vulnerability via a crafted script to the Category Managment feature
+PublicCMS V4.0.202406.f was discovered to contain a cross-site scripting (XSS) vulnerability via a crafted script to the Category Managment feature.
 
 ## Vulnerability hazards
 
