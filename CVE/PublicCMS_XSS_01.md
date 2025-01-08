@@ -68,4 +68,5 @@ After debugging the background code, it was found that the input data was not in
 
 ## Modification suggestion
 
-It is recommended to code user input/output parameters substantively.
+It is recommended to encode the input and output parameters in an entity format.
+建议对输入输出参数进行实体化编码。
