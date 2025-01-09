@@ -174,7 +174,7 @@ We continue to upload the second XML file and then check it. The XSS vulnerabili
 
 ![image-20250109151857809](XSS_02.assets/image-20250109151857809.png)
 
-##Modification suggestion
+## Modification suggestion
 
 * It is recommended to encode the input and output parameters in an entity format.
 * It is recommended that you do not enable the online viewing function for svg and xml, and click to view the source file directly.
